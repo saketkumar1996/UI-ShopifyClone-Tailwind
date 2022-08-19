@@ -1,0 +1,13 @@
+.btn:hover span{
+    right: -28px;
+}
+.btn span{
+    transition: 1s;
+}
+.btn1:hover span{
+    top: -10px;
+    transition: 2s;
+}
+.btn1 span{
+    transition: 2s;
+}
